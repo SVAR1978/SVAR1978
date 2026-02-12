@@ -23,7 +23,7 @@
 
 ---
 
-## ⚡ whoami
+## whoami
 
 ```yaml
 identity:
@@ -47,7 +47,7 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 ---
 
-## 🛠 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -85,8 +85,6 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 ---
 
-##  GitHub Stats
-
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SVAR1978&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVAR1978&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
@@ -96,9 +94,7 @@ philosophy:     "Build. Break. Secure. Repeat."
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVAR1978&theme=transparent&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=ff6e6e&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=888" />
 </div> -->
 
----
-
-##  Security Mindset
+## Security Mindset
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -115,20 +111,16 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 ---
 
-##  Featured Projects
-
 <!-- <div align="center">
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| 🔐 **SecureVault** | React Native + Node.js | End-to-end encrypted notes app |
-| 📡 **APIShield** | Express + JWT | Hardened REST API boilerplate |
-| 📱 **TrackIt** | React Native + MongoDB | Real-time location tracking app |
-| 🛡️ **PenToolkit** | Python | Personal security recon scripts |
+|  **SecureVault** | React Native + Node.js | End-to-end encrypted notes app |
+|  **APIShield** | Express + JWT | Hardened REST API boilerplate |
+|  **TrackIt** | React Native + MongoDB | Real-time location tracking app |
+|  **PenToolkit** | Python | Personal security recon scripts |
 
 </div> -->
-
----
 
 ## Contribution Activity
 
