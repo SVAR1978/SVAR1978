@@ -1,5 +1,5 @@
-
 <div align="center">
+
 <pre align="center">
 ██╗   ██╗██╗██╗  ██╗ █████╗ ███████╗██╗  ██╗
 ██║   ██║██║██║ ██╔╝██╔══██╗██╔════╝██║  ██║
@@ -8,14 +8,16 @@
  ╚████╔╝ ██║██║  ██╗██║  ██║███████║██║  ██║
   ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 </pre>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+%26+Backend+Engineer;Security-First+Developer;Building+Systems+That+Scale;React+Native+%7C+Node.js+%7C+Security" alt="Typing SVG" />
+
 <br/>
 
 </div>
 
 ---
 
-## whoami
+## ⚡ whoami
 
 ```yaml
 identity:
@@ -26,8 +28,7 @@ identity:
 
 specialization:
   primary:      ["Mobile Development", "Frontend Systems"]
-  learning:     ["Application Security", "Penetration Testing", 
-  "Network Security"]
+  learning:     ["Application Security", "Penetration Testing", "Network Security"]
   goal:         "Build bulletproof systems — then try to break them"
 
 current:
@@ -40,7 +41,7 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 ---
 
-## Tech Arsenal
+## 🛠 Tech Arsenal
 
 <div align="center">
 
@@ -78,44 +79,26 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 ---
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SVAR1978&show_icons=true&theme=transparent&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVAR1978&layout=compact&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+## 🔐 Security Mindset
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SVAR1978&theme=transparent&hide_border=true&stroke=00d9ff&ring=00d9ff&fire=ff6e6e&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=888" />
-</div> -->
 
-## Security Mindset
+### `Security is not a feature — it's a mindset.`
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                   SECURITY CHECKLIST                    │
-├──────────────────────────┬──────────────────────────────┤
-│  ✅ Input Validation     │  ✅ Auth & Authorization      │
-│  ✅ SQL Injection Guard  │  ✅ Rate Limiting             │
-│  ✅ XSS Prevention       │  ✅ HTTPS Enforcement         │
-│  ✅ CORS Hardening       │  🔄 Penetration Testing       │
-│  🔄 CTF Challenges       │  🔄 Bug Bounty Prep           │
-└──────────────────────────┴──────────────────────────────┘
-        "Security is not a feature — it's a mindset."
-```
+|  Mastered  |  In Progress  |
+|:---|:---|
+| Input Validation & Sanitization | Penetration Testing |
+| Encryption & Decryption | CTF Challenges |
+| XSS & CSRF Protection | Bug Bounty Hunting |
+| Auth, JWT & Authorization | Reverse Engineering |
+| Rate Limiting & Throttling | Mobile App Security |
+| HTTPS & CORS Hardening | Red Team Techniques |
+
+</div>
 
 ---
 
-<!-- <div align="center">
-
-| Project | Stack | Description |
-|--------|-------|-------------|
-|  **SecureVault** | React Native + Node.js | End-to-end encrypted notes app |
-|  **APIShield** | Express + JWT | Hardened REST API boilerplate |
-|  **TrackIt** | React Native + MongoDB | Real-time location tracking app |
-|  **PenToolkit** | Python | Personal security recon scripts |
-
-</div> -->
-
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SVAR1978&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
@@ -123,7 +106,7 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 ---
 
-## 2025 Roadmap
+## 🎯 2025 Roadmap
 
 ```
 [██████████] Mobile Dev     — 85%   React Native apps in production
@@ -135,7 +118,7 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 ---
 
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
@@ -143,18 +126,19 @@ philosophy:     "Build. Break. Secure. Repeat."
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SVAR1978)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rn07051978@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SVAR1978)
+
 </div>
 
 ---
 
 <div align="center">
 
-```
+<pre align="center">
 ╔══════════════════════════════════════════════════════╗
 ║   "The best engineers understand how things break"  ║
 ║              — Build. Break. Secure.                ║
 ╚══════════════════════════════════════════════════════╝
-```
+</pre>
 
 ⭐ **If you like what I build — drop a star on something!**
 
