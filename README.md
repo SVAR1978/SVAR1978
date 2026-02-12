@@ -1,23 +1,15 @@
-<div align="center">
 
-```
+<div align="center">
+<pre align="center">
 ██╗   ██╗██╗██╗  ██╗ █████╗ ███████╗██╗  ██╗
 ██║   ██║██║██║ ██╔╝██╔══██╗██╔════╝██║  ██║
 ██║   ██║██║█████╔╝ ███████║███████╗███████║
 ╚██╗ ██╔╝██║██╔═██╗ ██╔══██║╚════██║██╔══██║
  ╚████╔╝ ██║██║  ██╗██║  ██║███████║██║  ██║
   ╚═══╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
-
+</pre>
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+%26+Backend+Engineer;Security-First+Developer;Building+Systems+That+Scale;React+Native+%7C+Node.js+%7C+Security" alt="Typing SVG" />
-
-<!-- <br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SVAR1978&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)](https://github.com/SVAR1978)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00d9ff?style=flat-square)
-&nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-AppSec_%26_Mobile-blueviolet?style=flat-square) -->
+<br/>
 
 </div>
 
