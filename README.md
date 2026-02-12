@@ -34,7 +34,8 @@ identity:
 
 specialization:
   primary:      ["Mobile Development", "Frontend Systems"]
-  learning:     ["Application Security", "Penetration Testing", Network Security]
+  learning:     ["Application Security", "Penetration Testing", 
+  "Network Security"]
   goal:         "Build bulletproof systems — then try to break them"
 
 current:
@@ -146,7 +147,7 @@ philosophy:     "Build. Break. Secure. Repeat."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vikash-adivasi-865833303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-adivasi-865833303/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SVAR1978)
 </div>
 
